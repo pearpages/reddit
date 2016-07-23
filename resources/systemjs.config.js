@@ -23,6 +23,7 @@
     '@angular/router-deprecated',
     '@angular/testing',
     '@angular/upgrade',
+    'components/article'
   ];
 
   // add package entries for angular packages in the form '@angular/common': { main: 'index.js', defaultExtension: 'js' }
